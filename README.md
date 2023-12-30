@@ -1,9 +1,9 @@
 # LSC-CNN
 This project is an infrared image denoising paper published in 2021 - Non-uniformity correction of infrared images based on improved CNN with long-short connections (LSC-CNN)
 
-#Citation
+# Citation
 
-```python
+```
 @article{li2021non,
   title={Non-uniformity correction of infrared images based on improved CNN with long-short connections},
   author={Li, Timing and Zhao, Yiqiang and Li, Yao and Zhou, Guoqing},
