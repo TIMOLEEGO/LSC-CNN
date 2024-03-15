@@ -1,7 +1,7 @@
 # LSC-CNN
 This project is an infrared image denoising paper published in 2021 - Non-uniformity correction of infrared images based on improved CNN with long-short connections (LSC-CNN)
 
-#Dataset
+# Dataset
 Download the dataset from [Google Drive](https://drive.google.com/drive/folders/1AaEnboyhrgcAC3jP-RQ_mtTKXNxsG0Lo?usp=drive_link).
 
 # Citation
